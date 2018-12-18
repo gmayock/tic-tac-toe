@@ -6,9 +6,9 @@ https://guides.github.com/activities/hello-world/
 
 << Practicing making a branch, opening, and merging a pull request. >>
 
-Hello. You are looking at a computer screen. 
-Unless you are looking at a phone or tablet screen. 
-Or perhaps you've hooked up a television to your computer.
+Hello. You are looking at a computer screen. \
+Unless you are looking at a phone or tablet screen. \
+Or perhaps you've hooked up a television to your computer. \
 Or perhaps someone has printed the readme on paper.
 Or perhaps some other medium for the transmission of written language.
 Or perhaps someone is reading it to you.
