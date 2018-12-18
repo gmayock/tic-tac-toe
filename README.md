@@ -28,4 +28,4 @@ Emotion manifesting tangible in the air, \
 A knowing look between lovers, \
 Or a joke told in a glance between friends. \
 ... \
-No, it's probably a computer screen. \
+No, it's probably a computer screen.
