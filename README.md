@@ -1,5 +1,5 @@
 # tic-tac-toe
-Repository for Tic Tac Toe games.
+Repository for a Tic Tac Toe game.
 
 See my blog post about creating this here: http://gmayock.com/blog/read.php?name=20Dec2018202759MyVeryFirstModels
 
