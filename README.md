@@ -1,6 +1,8 @@
 # tic-tac-toe
 Repository for Tic Tac Toe games.
 
+See my blog post about creating this here: http://gmayock.com/blog/read.php?name=20Dec2018202759MyVeryFirstModels
+
 # hello-world guide
 https://guides.github.com/activities/hello-world/
 
