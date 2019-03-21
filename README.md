@@ -6,6 +6,8 @@ See my blog post about creating this here: http://gmayock.com/blog/read.php?name
 # hello-world guide
 https://guides.github.com/activities/hello-world/
 
+Note - I followed this guide, as this was my first GitHub repo. I also wrote a bit of prose.
+
 << Practicing making a branch, opening, and merging a pull request. >>
 
 Hello. You are looking at a computer screen. \
